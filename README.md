@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 أنا أعمل حالياً على: بناء حلول برمجية وتطوير أدوات جديدة.<br><br>
-🧑‍‍🤝‍🧑 أنا أتطلع إلى التعاون في: أفكار برمجية مبتكرة ومشاريع مشتركة.<br><br>
+🧑‍🤝‍🧑 أنا أتطلع إلى التعاون في: أفكار برمجية مبتكرة ومشاريع مشتركة.<br><br>
 🤝 أنا أبحث عن المساعدة مع: استراتيجيات تحسين السيو ودعم المشاريع الضخمة.<br><br>
 🌱 أنا أتعلم حالياً: تقنيات جديدة لتطوير قدراتي كخبير تكنولوجيا.<br><br>
 💬 اسألني عن: البرمجة، التكنولوجيا، وأفضل الممارسات التقنية.<br><br>
@@ -40,8 +40,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HeroMax7411&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ اقتباس للمطورين
+
+> 💡 **"أولاً، حل المشكلة. ثم اكتب الكود."**  
+> — *جون جونسون*
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HeroMax7411&limit=5&theme=dark&combine_all_yearly_contributions=true)
