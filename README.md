@@ -42,8 +42,8 @@
 
 ### ✍️ اقتباس للمطورين
 
-> 💡 **"أولاً، حل المشكلة. ثم اكتب الكود."**  
-> — *جون جونسون*
+> 💡 **"فكر بي ابسط المشاكل وحلها ."**  
+> — *سيد*
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HeroMax7411&limit=5&theme=dark&combine_all_yearly_contributions=true)
